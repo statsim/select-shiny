@@ -2,7 +2,8 @@
 Boruta is one of the most popular methods for all-relevant feature selection. It's great for data exploration because it tries to find all variables that could have some relationship with target. Another popular approach, minimum optimal feature selection, selects only the minimal subset of features. 
 * More info about Boruta: [https://www.mimuw.edu.pl/~ajank/papers/Kursa2010.pdf](https://www.mimuw.edu.pl/~ajank/papers/Kursa2010.pdf)
 * Boruta on CRAN: [https://cran.r-project.org/web/packages/Boruta/](https://cran.r-project.org/web/packages/Boruta/)
-* Shiny: []
+* Boruta.py: [https://github.com/scikit-learn-contrib/boruta_py](https://github.com/scikit-learn-contrib/boruta_py)
+* See also MUVR: [https://gitlab.com/CarlBrunius/MUVR](https://gitlab.com/CarlBrunius/MUVR)
 
 ![Boruta results](https://raw.githubusercontent.com/statsim/select/master/images/boruta.png "Boruta all-relevant feature selection results")
 
